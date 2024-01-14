@@ -1,4 +1,4 @@
-![SpaceBox Theme](https://github.com/amnweb/SpaceBox-Theme/raw/HEAD/images/logo.png?raw=true&new=1) 
+![SpaceBox Theme](https://github.com/amnweb/SpaceBox-Theme/raw/HEAD/images/logo copy.png?raw=true&new=1) 
 
 
 
