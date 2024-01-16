@@ -1,8 +1,6 @@
 ![SpaceBox Theme](https://github.com/amnweb/SpaceBox-Theme/raw/HEAD/images/logo.png?raw=true&new=1) 
 
 
-
-
 # SpaceBox Dark Theme for VS Code
 
 A sleek and professional dark theme for Visual Studio Code, designed to minimize eye strain and maximize focus. SpaceBox offers a unique color palette that provides excellent contrast while maintaining a soothing atmosphere. This theme is perfect for developers who prefer a dark workspace that is easy on the eyes and enhances productivity.
@@ -26,6 +24,8 @@ A sleek and professional dark theme for Visual Studio Code, designed to minimize
 2. Go to the Extensions view (`Ctrl+Shift+P`)
 3. Search for "SpaceBox"
 4. Click on the Install button to download and install the theme
+5. Aditional: Install SpaceBox UI Enhancer with this theme
+5. Additional: Install [Spacebox UI Enhancer](https://marketplace.visualstudio.com/items?itemName=SpaceBox.spacebox-ui) with this theme.
 
 Experience the perfect balance between style and functionality with SpaceBox Dark Theme for VS Code. Happy coding!
 
