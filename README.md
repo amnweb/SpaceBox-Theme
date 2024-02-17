@@ -11,6 +11,15 @@ A sleek and professional dark theme for Visual Studio Code, designed to minimize
 ![SpaceBox Theme](https://github.com/amnweb/SpaceBox-Theme/raw/HEAD/images/screenshot.jpg?raw=true&new=1)
 
 
+
+## NEW Theme (NOVA)
+
+NOVA is here. Make your code shine!
+
+![SpaceBox Theme NOVA](https://github.com/amnweb/SpaceBox-Theme/raw/HEAD/images/nova.webp?raw=true&new=1)
+
+
+
 ## Features
 
 - Carefully selected color palette for optimal contrast and readability
@@ -43,8 +52,7 @@ A sleek and professional dark theme for Visual Studio Code, designed to minimize
 	//"editor.fontLigatures":true||false,
 	"editor.fontSize": 15,
 	"editor.suggestFontSize": 14,
-	"editor.lineHeight": 22,
-	"editor.letterSpacing": -0.2,
+	"editor.lineHeight": 25,
 	"editor.links": false
 }
 ```

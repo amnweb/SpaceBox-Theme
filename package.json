@@ -1,0 +1,64 @@
+{
+	"name": "spacebox-theme",
+	"displayName": "SpaceBox",
+	"description": "A sleek and professional dark theme for Visual Studio Code, designed to minimize eye strain and maximize focus. SpaceBox offers a unique color palette that provides excellent contrast while maintaining a soothing atmosphere. This theme is perfect for developers who prefer a dark workspace that is easy on the eyes and enhances productivity.",
+	"publisher": "SpaceBox",
+	"license": "MIT",
+	"version": "0.0.9",
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"dark",
+		"dark theme",
+		"purple",
+		"blue",
+		"dark",
+		"github",
+		"spacebox"
+	],
+	"galleryBanner": {
+		"color": "#0d1116",
+		"theme": "dark"
+	},
+	"icon": "images/icon.png",
+	"pricing": "Free",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/amnweb/SpaceBox-Theme"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "SpaceBox",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SpaceBox-color-theme.json"
+			},
+			{
+				"label": "SpaceBox Pulsar",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SpaceBox-pulsar-color-theme.json"
+			},
+			{
+				"label": "SpaceBox Nebula",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SpaceBox-nebula-color-theme.json"
+			},
+			{
+				"label": "SpaceBox Nova",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SpaceBox-nova-color-theme.json"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "spacebox.file-icon-theme",
+				"label": "SpaceBox File Icon",
+				"path": "./icons/SpaceBox-icon-theme.json"
+			}
+		]
+	}
+}
