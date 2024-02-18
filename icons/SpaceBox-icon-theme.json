@@ -456,14 +456,8 @@
 		"dune": {
 			"iconPath": "./lib/files/dune.svg"
 		},
-		"zip": {
-			"iconPath": "./lib/files/zip.svg"
-		},
-		"tar": {
-			"iconPath": "./lib/files/tar.svg"
-		},
-		"rar": {
-			"iconPath": "./lib/files/rar.svg"
+		"archive": {
+			"iconPath": "./lib/files/archive.svg"
 		},
 		"bun": {
 			"iconPath": "./lib/files/bun.svg"
@@ -824,11 +818,12 @@
 		"toml": "gear",
 		"v": "v",
 		"nix": "nix",
-		"zip": "zip",
-		"tgz": "tar",
-		"tar": "tar",
-		"gz": "tar",
-		"rar": "rar",
+        "7z": "archive",
+		"zip": "archive",
+		"tgz": "archive",
+		"tar": "archive",
+		"gz": "archive",
+		"rar": "archive",
 		".htaccess": "text",
 		".htpasswd": "text",
 		".jpg": "image",
