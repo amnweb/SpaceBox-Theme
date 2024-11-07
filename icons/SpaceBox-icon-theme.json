@@ -6,9 +6,6 @@
 		"folder-open": {
 			"iconPath": "./lib/folders/folder-open.svg"
 		},
-		"folder-dot": {
-			"iconPath": "./lib/folders/folder-dot.svg"
-		},
 		"code-green": {
 			"iconPath": "./lib/files/code-green.svg"
 		},

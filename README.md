@@ -2,7 +2,6 @@
 
 
 
-
 # SpaceBox Dark Theme for VS Code
 
 A sleek and professional dark theme for Visual Studio Code, designed to minimize eye strain and maximize focus. SpaceBox offers a unique color palette that provides excellent contrast while maintaining a soothing atmosphere. This theme is perfect for developers who prefer a dark workspace that is easy on the eyes and enhances productivity.
@@ -10,6 +9,13 @@ A sleek and professional dark theme for Visual Studio Code, designed to minimize
 
 ![SpaceBox Theme](https://github.com/amnweb/SpaceBox-Theme/raw/HEAD/images/screenshot.jpg?raw=true&new=1)
 
+
+
+## NEW Theme (Pro)
+
+Pro color scheme, colors which you love to see in your code.
+
+![SpaceBox Theme Pro](https://github.com/amnweb/SpaceBox-Theme/raw/HEAD/images/pro.png?raw=true&new=1)
 
 
 ## NEW Theme (NOVA)
@@ -42,17 +48,15 @@ NOVA is here. Make your code shine!
 
 ```json
 {
-	"editor.fontWeight": "400",
+	"editor.fontWeight": "300",
 	"editor.cursorBlinking": "expand",
 	"editor.cursorWidth": 2,
 	"editor.wordWrap": "on",
-	"editor.fontFamily": "Iosevka Code,monospace",
+	"editor.fontFamily": "Jetbrains Mono",
 	"editor.fontVariations": false, 
 	"editor.renderWhitespace": "none",
-	//"editor.fontLigatures":true||false,
-	"editor.fontSize": 15,
-	"editor.suggestFontSize": 14,
-	"editor.lineHeight": 25,
+	"editor.fontSize": 14,
+	"editor.lineHeight": 1.5,
 	"editor.links": false
 }
 ```
